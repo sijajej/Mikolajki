@@ -1,0 +1,13 @@
+C:\GitHub\Mikolajki\Mikolajki\bin\Debug\netcoreapp3.1\Mikolajki.exe
+C:\GitHub\Mikolajki\Mikolajki\bin\Debug\netcoreapp3.1\Mikolajki.deps.json
+C:\GitHub\Mikolajki\Mikolajki\bin\Debug\netcoreapp3.1\Mikolajki.runtimeconfig.json
+C:\GitHub\Mikolajki\Mikolajki\bin\Debug\netcoreapp3.1\Mikolajki.runtimeconfig.dev.json
+C:\GitHub\Mikolajki\Mikolajki\bin\Debug\netcoreapp3.1\Mikolajki.dll
+C:\GitHub\Mikolajki\Mikolajki\bin\Debug\netcoreapp3.1\Mikolajki.pdb
+C:\GitHub\Mikolajki\Mikolajki\obj\Debug\netcoreapp3.1\Mikolajki.csprojAssemblyReference.cache
+C:\GitHub\Mikolajki\Mikolajki\obj\Debug\netcoreapp3.1\Mikolajki.AssemblyInfoInputs.cache
+C:\GitHub\Mikolajki\Mikolajki\obj\Debug\netcoreapp3.1\Mikolajki.AssemblyInfo.cs
+C:\GitHub\Mikolajki\Mikolajki\obj\Debug\netcoreapp3.1\Mikolajki.csproj.CoreCompileInputs.cache
+C:\GitHub\Mikolajki\Mikolajki\obj\Debug\netcoreapp3.1\Mikolajki.dll
+C:\GitHub\Mikolajki\Mikolajki\obj\Debug\netcoreapp3.1\Mikolajki.pdb
+C:\GitHub\Mikolajki\Mikolajki\obj\Debug\netcoreapp3.1\Mikolajki.genruntimeconfig.cache
